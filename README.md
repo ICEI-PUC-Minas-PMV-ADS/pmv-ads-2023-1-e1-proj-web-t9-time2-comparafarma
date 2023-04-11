@@ -1,23 +1,25 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`TECNOLOGIA EM ANALISE E DESENVOLVIMENTO DE SISTEMAS`
 
-`DISCIPLINA`
+`PROJETO: DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT-END`
 
-`SEMESTRE`
+`1o SEMESTRE 2023`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+- Bruno Henrique Comassetto
+- Christiane Curi Pereira
+- Gabriel Mautone Costa
+- Jonathan Francisco Rocha de Castro
+- Murilo Henrique Souza Ignacio
+- Priscila Amaral Diniz
 
 ## Orientador
 
-* Nome completo do professor 1
+- Marco Rodrigo Costa
 
 ## Instruções de utilização
 
@@ -41,12 +43,12 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+- Insira o endereço eletrônico público de acesso ao conteúdo publicado.
 
 # Armazenamento do Código-Fonte
 
-* <a href="src/README.md">Código Fonte</a>
+- <a href="src/README.md">Código Fonte</a>
 
 # Armazenamento da Apresentação
 
-* <a href="presentation/README.md">Apresentação da solução</a>
+- <a href="presentation/README.md">Apresentação da solução</a>
