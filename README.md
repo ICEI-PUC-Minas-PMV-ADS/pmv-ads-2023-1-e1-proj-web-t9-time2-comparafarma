@@ -6,7 +6,7 @@
 
 `1o SEMESTRE 2023`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Algo
 
 ## Integrantes
 
