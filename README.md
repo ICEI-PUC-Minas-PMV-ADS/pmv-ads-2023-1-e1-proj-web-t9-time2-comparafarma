@@ -51,6 +51,37 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 1.4. O público-alvo deste projeto são adultos e idosos que compram regularmente ou esporadicamente medicamentos em farmácias e necessitam de cotações com agilidade e fácil acesso. Entende-se que muitos adultos usam um ou mais medicamentos em seu dia a dia, além de comprarem medicamentos para filhos e familiares. Além disso, idosos, em grande parte, são poli-medicados, fazendo compras com regularidade, além de poderem apresentar dificuldades de locomoção. 
 
 <li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
+  
+Este projeto foi elaborado pela equipe de produção após a detecção da necessidade de alguns usuários. Posteriormente, a equipe realizou pesquisas e observação de pessoas, suas rotinas diárias e suas necessidades para visualização de como melhor atendê-los. Com isso, foram estabelecidas as personas, as histórias e os requisitos do projeto, conforme detalhado a seguir.
+
+2.1. Personas
+A seguir são apresentadas as personas importantes para o desenvolvimento desse projeto, criadoras de histórias que guiarão a construção das funcionalidades desse sistema.
+
+- Persona 1: Luzia Silva
+Idade: 60 anos
+Profissão: Motorista de ônibus
+Mulher que mora em uma cidade grande e trabalha como motorista de ônibus. Ela foi diagnosticada com diabetes tipo 2 há cinco anos.
+Desafios: precisa fazer um controle rigoroso da glicemia para evitar complicações em sua saúde; precisa lidar com os altos preços dos medicamentos e a dificuldade de encontrá-los em estoque em algumas farmácias.
+  
+- Persona 2: Carolina Souza
+Idade: 32 anos
+Profissão: Professora
+Mulher que mora em uma cidade litorânea. Ela trabalha como professora e é uma pessoa muito ativa. Carolina foi diagnosticada com asma com 12 anos de idade.
+Desafios: precisa lidar com as crises de asma e evitar possíveis desencadeadores de suas crises, como poeira, ácaros e mudanças bruscas de temperatura; precisa encontrar rapidamente os medicamentos que precisa quando uma crise ocorre.
+  
+- Persona 3: José Silva
+Idade: 27 anos
+Profissão: Designer Gráfico
+Homem que mora em uma cidade pequena. Ele trabalha como designer gráfico e gosta de passar seu tempo livre fazendo atividades criativas. José foi diagnosticado com depressão há alguns anos e desde então precisa lidar com os sintomas da doença.
+Desafios: precisa lidar com os sintomas da depressão, como a falta de energia e a falta de motivação para realizar tarefas diárias; precisa encontrar os medicamentos que precisa para controlar os sintomas e evitar recaídas.
+
+Persona 4: Marcos Castro
+Idade: 48 anos
+Profissão: Empresário
+Homem que mora em uma cidade grande e é proprietário de uma farmácia. Tem observado seus ganhos reduzirem nos últimos anos devido ao aumento de farmácias pertencentes a grandes redes. Gostaria de aumentar os lucros.
+Desafios: precisa aumentar os lucros com pouco investimento; gostaria de vender para outros públicos que não somente os do entorno da Farmácia.
+ 
+  
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
