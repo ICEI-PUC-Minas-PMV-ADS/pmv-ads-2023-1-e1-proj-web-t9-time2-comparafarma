@@ -1,4 +1,4 @@
-# COMPARARFRAMA
+﻿# COMPARARFRAMA
 
 `TECNOLOGIA EM ANALISE E DESENVOLVIMENTO DE SISTEMAS`
 
@@ -41,19 +41,19 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 1.2.1 O objetivo geral deste projeto é desenvolver uma aplicação Web Front-End que permita aos seus usuários a comparação do preço de medicamentos em diversas farmácias com maior agilidade e praticidade.
 
 1.2.1 Como objetivos específicos deste projeto, pode-se listar:
--	disponibilizar o contato das farmácias para que o usuário possa verificar a disponibilidade dos produtos desejados;
--	demonstrar a distância do endereço do usuário até a farmácia escolhida por ele;
--	proporcionar a criação de alertas de preço para que o usuário seja notificado quando o medicamento alcançar valor igual ou inferior ao que for estabelecido;
--	permitir que o usuário crie uma lista de produtos de maior interesse para acesso e acompanhamento mais fácil.
-
+- disponibilizar o contato das farmácias para que o usuário possa verificar a disponibilidade dos produtos desejados;
+- demonstrar a distância do endereço do usuário até a farmácia escolhida por ele;
+- proporcionar a criação de alertas de preço para que o usuário seja notificado quando o medicamento alcançar valor igual ou inferior ao que for estabelecido;
+- permitir que o usuário crie uma lista de produtos de maior interesse para acesso e acompanhamento mais fácil.
+	
 1.3. Justificativa: Os resultados de um estudo de Souza et al. (2021) mostram uma diferença no comportamento dos preços praticados na venda de medicamentos de referência e genéricos em relação ao PMC. Com base nesses estudos, pode-se observar que os medicamentos genéricos, em sua maioria (72%), tendiam a praticar diferenças médias percentuais de preços que estavam mais de 40% abaixo do PMC (20%) e a maioria dos medicamentos de referência (88%) tendia a praticar diferenças médias percentuais que estavam menos de 40% abaixo do PMC (20%). Com o aumento de 10,08% estabelecido pelo CMED em 2021, o IDEC (Instituto Brasileiro de Defesa do Consumidor) vem alertando que o aumento sentido pelos consumidores nas farmácias pode ser ainda maior, conforme relata Ana Carolina Navarrete, coordenadora do Programa de Saúde do IDEC: "A tabela da CMED é uma ficção porque o preço estabelecido logo na chegada de um novo produto farmacêutico ao país é, na maior parte das vezes, artificialmente alto. Na prática, isso significa que o preço que pagamos na farmácia depende dos supostos descontos aplicados pelas empresas – e isso faz com que os valores possam variar duas, três ou quatro vezes e, ainda assim, estar dentro dos limites da regulação. [...] O que vemos é que as distorções que começam com a definição dos preços de entrada apenas aumentam com o passar dos anos, colocando os consumidores – e principalmente aqueles que dependem de tratamentos contínuos – em uma situação muito desfavorável (NAVARRETE)".   Portanto, este projeto se justifica pois os consumidores cada vez mais buscam por menores preços de medicamentos e possuem, para tal, diversas opções de farmácias, podendo ter cada uma com seu respectivo aplicativo de orçamento. Considerando possíveis dificuldades de locomoção de idosos e a vida agitada e corrida da população adulta, uma aplicação que facilite e agilize a comparação de preços de diversas farmácias simultaneamente se faz bastante útil.
-
+	
 1.4. O público-alvo deste projeto são adultos e idosos que compram regularmente ou esporadicamente medicamentos em farmácias e necessitam de cotações com agilidade e fácil acesso. Entende-se que muitos adultos usam um ou mais medicamentos em seu dia a dia, além de comprarem medicamentos para filhos e familiares. Além disso, idosos, em grande parte, são poli-medicados, fazendo compras com regularidade, além de poderem apresentar dificuldades de locomoção. 
-
+	
 <li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
-  
+  	
 Este projeto foi elaborado pela equipe de produção após a detecção da necessidade de alguns usuários. Posteriormente, a equipe realizou pesquisas e observação de pessoas, suas rotinas diárias e suas necessidades para visualização de como melhor atendê-los. Com isso, foram estabelecidas as personas, as histórias e os requisitos do projeto, conforme detalhado a seguir.
-
+	
 2.1. Personas
 A seguir são apresentadas as personas importantes para o desenvolvimento desse projeto, criadoras de histórias que guiarão a construção das funcionalidades desse sistema.
 
@@ -74,7 +74,7 @@ Idade: 27 anos
 Profissão: Designer Gráfico
 Homem que mora em uma cidade pequena. Ele trabalha como designer gráfico e gosta de passar seu tempo livre fazendo atividades criativas. José foi diagnosticado com depressão há alguns anos e desde então precisa lidar com os sintomas da doença.
 Desafios: precisa lidar com os sintomas da depressão, como a falta de energia e a falta de motivação para realizar tarefas diárias; precisa encontrar os medicamentos que precisa para controlar os sintomas e evitar recaídas.
-
+	
 Persona 4: Marcos Castro
 Idade: 48 anos
 Profissão: Empresário
