@@ -29,10 +29,10 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <ol>
 <li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
 
-  Em 2003, por meio da implementação da Lei 10.742, criou-se a Câmara de Regulação do Mercado de Medicamentos (CMED), que passou a estabelecer preços máximos ao consumidor (PMC) para medicamentos, assim como uma série de outros controles. Em termos da literatura econômica, isso significou adotar o modelo de preço-teto para regulação de preços nesse mercado.  O ajuste de preços de medicamentos se baseia em um modelo de teto de preços calculado com base: (1) em um índice - o Índice Nacional de Preços ao Consumidor Amplo (IPCA), que é calculado pelo Instituto Brasileiro de Geografia e Estatística (IBGE); (2) em um fator de produtividade - expresso em percentual e que permite repassar aos consumidores ganhos de produtividade das empresas produtoras de medicamentos; e (3) em um fator de ajuste de preços relativos intrassetor - calculado com base no poder de mercado, que é determinado pelo poder de monopólio ou oligopólio, na assimetria de informação, nas barreiras à entrada e outros, e entre setores - calculado com base na variação dos custos dos insumos, desde que tais custos não sejam recuperados pelo cômputo do índice (DOU, 2003).
-  O ajuste de preços de medicamentos tem como referência o mais recente preço do fabricante (PF). Por sua vez, o preço máximo ao consumidor (PMC) é obtido por meio da divisão do PF pelos fatores calculados, levando em conta as cargas tributárias do imposto sobre circulação de mercadorias e serviços (ICMS). As unidades de comércio varejista devem manter à disposição dos consumidores e dos órgãos de defesa do consumidor as listas dos preços de medicamentos atualizadas, contendo PF e PMC (Souza et al., 2021).
-  De acordo com Souza et al. (2021), o atual modelo de reajuste de preços tem utilizado PMCs descolados da realidade, aumentando a assimetria de informação e possibilitando futuros aumentos abusivos. Modelos regulatórios baseados em teto de preços, como o utilizado no Brasil, pressupõem realinhamentos periódicos dos preços aos valores de mercado a cada dois até, no máximo, cinco anos. No Brasil, este modelo permanece há 16 anos em vigor, sem qualquer realinhamento, com consequentes distorções acumuladas entre PMC e preços praticados. O fato de não se realizar avaliações periódicas dos preços praticados no mercado, ajustando o PMC para algo mais próximo da realidade do mercado parece ser um problema bastante relevante e com implicações para a eficácia da regulação e para o bem-estar dos consumidores.
-  O Senado analisa um projeto de lei que pode alterar as regras para a definição dos preços de medicamentos no Brasil. O PL 5591/2020, de autoria do senador Fabiano Contarato (ES), prevê entre outras coisas a possibilidade de reajustar os valores para baixo, inexistente até os dias atuais, e coloca novos requisitos de transparência para a indústria farmacêutica com o objetivo de garantir preços-teto mais justos. Enquanto isso não ocorre, cabe ao consumidor pesquisar cada vez mais a variação de preços em cada drogaria, pelo medicamento de referência e o genérico, e a optar pela versão mais barata para que isso não o impacte financeiramente. 
+Em 2003, por meio da implementação da Lei 10.742, criou-se a Câmara de Regulação do Mercado de Medicamentos (CMED), que passou a estabelecer preços máximos ao consumidor (PMC) para medicamentos, assim como uma série de outros controles. Em termos da literatura econômica, isso significou adotar o modelo de preço-teto para regulação de preços nesse mercado.  O ajuste de preços de medicamentos se baseia em um modelo de teto de preços calculado com base: (1) em um índice - o Índice Nacional de Preços ao Consumidor Amplo (IPCA), que é calculado pelo Instituto Brasileiro de Geografia e Estatística (IBGE); (2) em um fator de produtividade - expresso em percentual e que permite repassar aos consumidores ganhos de produtividade das empresas produtoras de medicamentos; e (3) em um fator de ajuste de preços relativos intrassetor - calculado com base no poder de mercado, que é determinado pelo poder de monopólio ou oligopólio, na assimetria de informação, nas barreiras à entrada e outros, e entre setores - calculado com base na variação dos custos dos insumos, desde que tais custos não sejam recuperados pelo cômputo do índice (DOU, 2003).
+O ajuste de preços de medicamentos tem como referência o mais recente preço do fabricante (PF). Por sua vez, o preço máximo ao consumidor (PMC) é obtido por meio da divisão do PF pelos fatores calculados, levando em conta as cargas tributárias do imposto sobre circulação de mercadorias e serviços (ICMS). As unidades de comércio varejista devem manter à disposição dos consumidores e dos órgãos de defesa do consumidor as listas dos preços de medicamentos atualizadas, contendo PF e PMC (Souza et al., 2021).
+De acordo com Souza et al. (2021), o atual modelo de reajuste de preços tem utilizado PMCs descolados da realidade, aumentando a assimetria de informação e possibilitando futuros aumentos abusivos. Modelos regulatórios baseados em teto de preços, como o utilizado no Brasil, pressupõem realinhamentos periódicos dos preços aos valores de mercado a cada dois até, no máximo, cinco anos. No Brasil, este modelo permanece há 16 anos em vigor, sem qualquer realinhamento, com consequentes distorções acumuladas entre PMC e preços praticados. O fato de não se realizar avaliações periódicas dos preços praticados no mercado, ajustando o PMC para algo mais próximo da realidade do mercado parece ser um problema bastante relevante e com implicações para a eficácia da regulação e para o bem-estar dos consumidores.
+O Senado analisa um projeto de lei que pode alterar as regras para a definição dos preços de medicamentos no Brasil. O PL 5591/2020, de autoria do senador Fabiano Contarato (ES), prevê entre outras coisas a possibilidade de reajustar os valores para baixo, inexistente até os dias atuais, e coloca novos requisitos de transparência para a indústria farmacêutica com o objetivo de garantir preços-teto mais justos. Enquanto isso não ocorre, cabe ao consumidor pesquisar cada vez mais a variação de preços em cada drogaria, pelo medicamento de referência e o genérico, e a optar pela versão mais barata para que isso não o impacte financeiramente. 
 
 1.1. O problema abordado neste trabalho consiste nas dificuldades enfrentadas pelos consumidores brasileiros para comparar o preço de medicamentos em farmácias pesquisando em diversos sites, aplicativos ou indo até os estabelecimentos.  
   
@@ -75,14 +75,68 @@ Profissão: Designer Gráfico
 Homem que mora em uma cidade pequena. Ele trabalha como designer gráfico e gosta de passar seu tempo livre fazendo atividades criativas. José foi diagnosticado com depressão há alguns anos e desde então precisa lidar com os sintomas da doença.
 Desafios: precisa lidar com os sintomas da depressão, como a falta de energia e a falta de motivação para realizar tarefas diárias; precisa encontrar os medicamentos que precisa para controlar os sintomas e evitar recaídas.
 	
-Persona 4: Marcos Castro
+- Persona 4: Marcos Castro
 Idade: 48 anos
 Profissão: Empresário
 Homem que mora em uma cidade grande e é proprietário de uma farmácia. Tem observado seus ganhos reduzirem nos últimos anos devido ao aumento de farmácias pertencentes a grandes redes. Gostaria de aumentar os lucros.
 Desafios: precisa aumentar os lucros com pouco investimento; gostaria de vender para outros públicos que não somente os do entorno da Farmácia.
- 
-  
+
+2.2. Histórias de usuários
+				 
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários:
+
+- Luzia Silva: desejo encontrar uma plataforma de comparação de preços que apresente os valores dos medicamentos em diferentes farmácias da região para economizar tempo e dinheiro na compra dos remédios para controle da diabetes. 
+- Luzia Silva: desejo poder fazer buscas por nome do medicamento e receber informações detalhadas sobre as diferentes opções disponíveis nas farmácias próximas a minha casa para encontrar o melhor preço para os medicamentos que utilizo. 
+- Carolina Souza: desejo ter acesso às informações de contato das farmácias para poder entrar em contato e tirar dúvidas sobre a disponibilidade do produto. 
+- Carolina Souza: desejo criar uma lista de favoritos com os medicamentos que utilizo com frequência para monitorar os preços e receber alertas quando houver promoções. 
+- José Silva: desejo poder compartilhar minhas buscas e resultados nas redes sociais para ajudar outras pessoas que estejam passando por situações semelhantes. 
+- José Silva: desejo ter a opção de filtrar as buscas por região ou bairro para encontrar as farmácias mais próximas de mim. 
+- Marcos Castro: desejo fornecer acesso ao seu estoque e seus preços para clientes diferentes dos que ele já tem para conseguir novos clientes, aumentando sua renda. 
+- Marcos Castro: desejo ter dados sobre os medicamentos mais procurados em aplicativos de orçamento e o perfil dos clientes que procuram para trabalhar melhor suas estratégias de divulgação de acordo com os interesses dos clientes. 
+
+2.3. Requisitos do Projeto 
+
+Constituem requisitos funcionais, que descrevem as possibilidades de interação dos usuários, e requisitos não funcionais, que descrevem os aspectos que o sistema deverá apresentar de maneira geral, elencados nesta seção. 
+
+2.3.1 Requisitos Funcionais 
+
+A seguir são apresentados os requisitos funcionais do projeto, indicando a prioridade em que devem ser entregues. 
+
+- RF-01: Prioridade alta. O site deve possuir uma página principal com informações que apresentem o aplicativo e permitam ao usuário buscar algum medicamento. 
+- RF-02: Prioridade alta. O site deve apresentar uma página com o resultado da pesquisa feita pelo usuário e comparação do preço do medicamento consultado em farmácias diferentes. 
+- RF-03: Prioridade média. O site deve mostrar a localização e contato das farmácias. 
+- RF-04: Prioridade baixa. O site deve permitir que o usuário faça uma lista de favoritos. 
+- RF-05: Prioridade baixa. O site deve permitir que o usuário compartilhe o resultado de sua pesquisa nas redes sociais. 
+- RF-06: Prioridade baixa. O site deve permitir que o usuário ative alertas de preço dos medicamentos e enviar um e-mail quando o preço for alcançado. 
+
+2.3.2 Requisitos Não Funcionais 
+
+O projeto deverá atender também os requisitos não funcionais, descritos a seguir. 
+
+- RNF-01: Prioridade alta. O site deve ser desenvolvido utilizando-se a plataforma de hospedagem e controle de versão de código GitHub. 
+- RNF-02: Prioridade alta. O site deve ser responsivo permitindo a visualização em um celular de forma adequada. 
+- RNF-03: Prioridade alta. O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) 
+- RNF-04: Prioridade média. O site deve ter bom nível de contraste entre os elementos da tela. 
+
+2.3.3 Restrições 
+
+Este projeto possui algumas limitações e deve respeitar parâmetros previamente estabelecidos, conforme descrito a seguir. 
+
+- RE-01: O projeto deve respeitar os prazos das etapas estabelecidos no cronograma da disciplina. 
+- RE-02: A solução deve ser implementada em sua íntegra e apresentada até o dia 25/06/2023. 
+- RE-03: O aplicativo não pode utilizar back-end. 
+- RE-04: A solução e o projeto devem ser desenvolvidos pela equipe do projeto.  
+
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
+
+A metodologia consiste nas definições de ferramentas utilizadas pela equipe tanto para a manutenção do código fonte quanto para a organização do time na execução das tarefas do projeto.  
+
+3.1. Relação de Ambientes de Trabalho 
+
+Os artefatos do projeto serão desenvolvidos nas plataformas apresentadas pelo quadro a seguir. 
+
+
+
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
 <li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
