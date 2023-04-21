@@ -93,51 +93,89 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 - José Silva: desejo ter a opção de filtrar as buscas por região ou bairro para encontrar as farmácias mais próximas de mim. 
 - Marcos Castro: desejo fornecer acesso ao seu estoque e seus preços para clientes diferentes dos que ele já tem para conseguir novos clientes, aumentando sua renda. 
 - Marcos Castro: desejo ter dados sobre os medicamentos mais procurados em aplicativos de orçamento e o perfil dos clientes que procuram para trabalhar melhor suas estratégias de divulgação de acordo com os interesses dos clientes. 
-
+	
 2.3. Requisitos do Projeto 
-
+	
 Constituem requisitos funcionais, que descrevem as possibilidades de interação dos usuários, e requisitos não funcionais, que descrevem os aspectos que o sistema deverá apresentar de maneira geral, elencados nesta seção. 
 
 2.3.1 Requisitos Funcionais 
-
+	
 A seguir são apresentados os requisitos funcionais do projeto, indicando a prioridade em que devem ser entregues. 
-
+	
 - RF-01: Prioridade alta. O site deve possuir uma página principal com informações que apresentem o aplicativo e permitam ao usuário buscar algum medicamento. 
 - RF-02: Prioridade alta. O site deve apresentar uma página com o resultado da pesquisa feita pelo usuário e comparação do preço do medicamento consultado em farmácias diferentes. 
 - RF-03: Prioridade média. O site deve mostrar a localização e contato das farmácias. 
 - RF-04: Prioridade baixa. O site deve permitir que o usuário faça uma lista de favoritos. 
 - RF-05: Prioridade baixa. O site deve permitir que o usuário compartilhe o resultado de sua pesquisa nas redes sociais. 
 - RF-06: Prioridade baixa. O site deve permitir que o usuário ative alertas de preço dos medicamentos e enviar um e-mail quando o preço for alcançado. 
-
+	
 2.3.2 Requisitos Não Funcionais 
-
+	
 O projeto deverá atender também os requisitos não funcionais, descritos a seguir. 
-
+	
 - RNF-01: Prioridade alta. O site deve ser desenvolvido utilizando-se a plataforma de hospedagem e controle de versão de código GitHub. 
 - RNF-02: Prioridade alta. O site deve ser responsivo permitindo a visualização em um celular de forma adequada. 
 - RNF-03: Prioridade alta. O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) 
 - RNF-04: Prioridade média. O site deve ter bom nível de contraste entre os elementos da tela. 
-
+	
 2.3.3 Restrições 
-
+	
 Este projeto possui algumas limitações e deve respeitar parâmetros previamente estabelecidos, conforme descrito a seguir. 
-
+	
 - RE-01: O projeto deve respeitar os prazos das etapas estabelecidos no cronograma da disciplina. 
 - RE-02: A solução deve ser implementada em sua íntegra e apresentada até o dia 25/06/2023. 
 - RE-03: O aplicativo não pode utilizar back-end. 
 - RE-04: A solução e o projeto devem ser desenvolvidos pela equipe do projeto.  
-
+	
 <li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
-
+	
 A metodologia consiste nas definições de ferramentas utilizadas pela equipe tanto para a manutenção do código fonte quanto para a organização do time na execução das tarefas do projeto.  
-
+	
 3.1. Relação de Ambientes de Trabalho 
-
+	
 Os artefatos do projeto serão desenvolvidos nas plataformas apresentadas pelo quadro a seguir. 
 
+- Repositório de código fonte: GitHub: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t9-time2-comparafarma 
+- Documentos do projeto: GitHub: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-1-e1-proj-web-t9-time2-comparafarma 
+- Projeto de Interface e Wireframes: -
+- Gerenciamento do Projeto: Trello: https://trello.com/b/EH10wmgQ/comparafarma 
 
+3.2. Gerenciamento do Projeto 
 
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para a definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira: 
+- Product Owner: Marco Rodrigo Costa 
+- Scrum Master: Christiane Curi Pereira  
+- Equipe de Desenvolvimento: Bruno Henrique Comassetto, Gabriel Mautone Costa, Jonathan Francisco Rocha de Castro, Murilo Henrique Souza Ignacio e Priscila Amaral Diniz 
+
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes colunas: 
+- Backlog: contém as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
+- A fazer: esta lista representa o Sprint Backlog. Nela constam as atividades pendentes a serem iniciar. 
+- Em andamento: nesta coluna constam os sprints que estão sendo realizados, ou seja, as atividades que estão em curso. 
+- Fase de testes: Lista as tarefas que estão passando pelo controle de qualidade antes de serem entregues ao cliente. 
+- Concluído: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias nessas versões. 
+
+O quadro kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível através da URL https://trello.com/b/EH10wmgQ/comparafarma.
+
+A organização da metodologia de trabalho é baseada no método Scrum e efetivado em sprints, sendo a seguir apresentada uma lista de sprints planejadas pelo grupo. O planejamento é de que cada sprint tenha duração de 7 dias, com entrega de artefatos intermediários.  
+A seguir são apresentadas algumas sprints que foram elaboradas como previsão de trabalho, já na ordem de sua execução, de acordo com as prioridades dos requisitos e Product backlog: 
+1. Criação da área de trabalho no Trello; 
+2. Inserção do projeto no GitHub; 
+3. Definição do Fluxo do Usuário 
+4. Projeto de interface da tela 1; 
+5 Projeto de interface da tela 2; 
+6. Atualização dos dados no GitHub; 
+7. Projeto de interface da tela 3; 
+8. Projeto de interface da tela 4; 
+9. (...) 
+	
 <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
+	
+A interface do ComparaFarma prevê tela inicial e telas posteriores a serem acessadas pelos usuários. Para tal, a equipe elaborou fluxos de telas, tanto na visão do cliente como do dono do estabelecimento de venda de medicamentos. 
+
+4.1. Fluxo do Usuário  
+
+De acordo com as histórias de usurários relatadas, sabe-se que o principal usuário do sistema será o cliente que compra medicamentos e busca comparar E o outro usuário do sistema ComparaFarma é o dono da Farmácia, que insere seus produtos a serem vendidos e acompanha os acessos dos clientes. Assim, foi estabelecido o fluxo para estes usuário. 
+		
 <li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
 <li><a href="docs/06-Template padrão do Site.md"> Template padrão do Site</a></li>
 <li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
