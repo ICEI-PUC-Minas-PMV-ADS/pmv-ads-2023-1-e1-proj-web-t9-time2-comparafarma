@@ -27,7 +27,10 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 # Documentação
 
 <ol>
-<li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
+<li>
+<!-- <a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a> -->
+Documentação de Contexto 
+</li>
 
 Em 2003, por meio da implementação da Lei 10.742, criou-se a Câmara de Regulação do Mercado de Medicamentos (CMED), que passou a estabelecer preços máximos ao consumidor (PMC) para medicamentos, assim como uma série de outros controles. Em termos da literatura econômica, isso significou adotar o modelo de preço-teto para regulação de preços nesse mercado.  O ajuste de preços de medicamentos se baseia em um modelo de teto de preços calculado com base: (1) em um índice - o Índice Nacional de Preços ao Consumidor Amplo (IPCA), que é calculado pelo Instituto Brasileiro de Geografia e Estatística (IBGE); (2) em um fator de produtividade - expresso em percentual e que permite repassar aos consumidores ganhos de produtividade das empresas produtoras de medicamentos; e (3) em um fator de ajuste de preços relativos intrassetor - calculado com base no poder de mercado, que é determinado pelo poder de monopólio ou oligopólio, na assimetria de informação, nas barreiras à entrada e outros, e entre setores - calculado com base na variação dos custos dos insumos, desde que tais custos não sejam recuperados pelo cômputo do índice (DOU, 2003).
 O ajuste de preços de medicamentos tem como referência o mais recente preço do fabricante (PF). Por sua vez, o preço máximo ao consumidor (PMC) é obtido por meio da divisão do PF pelos fatores calculados, levando em conta as cargas tributárias do imposto sobre circulação de mercadorias e serviços (ICMS). As unidades de comércio varejista devem manter à disposição dos consumidores e dos órgãos de defesa do consumidor as listas dos preços de medicamentos atualizadas, contendo PF e PMC (Souza et al., 2021).
@@ -50,7 +53,11 @@ O Senado analisa um projeto de lei que pode alterar as regras para a definição
 	
 1.4. O público-alvo deste projeto são adultos e idosos que compram regularmente ou esporadicamente medicamentos em farmácias e necessitam de cotações com agilidade e fácil acesso. Entende-se que muitos adultos usam um ou mais medicamentos em seu dia a dia, além de comprarem medicamentos para filhos e familiares. Além disso, idosos, em grande parte, são poli-medicados, fazendo compras com regularidade, além de poderem apresentar dificuldades de locomoção. 
 	
-<li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
+<li>
+<!-- <a href="docs/02-Especificação do Projeto.md"> 
+Especificação do Projeto</a> -->
+Especificação do Projeto
+</li>
   	
 Este projeto foi elaborado pela equipe de produção após a detecção da necessidade de alguns usuários. Posteriormente, a equipe realizou pesquisas e observação de pessoas, suas rotinas diárias e suas necessidades para visualização de como melhor atendê-los. Com isso, foram estabelecidas as personas, as histórias e os requisitos do projeto, conforme detalhado a seguir.
 	
@@ -114,7 +121,7 @@ Constituem requisitos funcionais, que descrevem as possibilidades de interação
 	
 A seguir são apresentados os requisitos funcionais do projeto, indicando a prioridade em que devem ser entregues. 
 	
-|ID    | Descrição do Requisito  | Prioridade |
+|ID       | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-01| O site deve possuir uma página principal com informações que apresentem o aplicativo e permitam ao usuário buscar algum medicamento | ALTA | 
 |RF-02| O site deve apresentar uma página com o resultado da pesquisa feita pelo usuário e comparação do preço do medicamento consultado em farmácias diferentes  | ALTA |
@@ -134,7 +141,7 @@ A seguir são apresentados os requisitos funcionais do projeto, indicando a prio
 	
 O projeto deverá atender também os requisitos não funcionais, descritos a seguir. 
 	
-|ID    | Descrição do Requisito  | Prioridade |
+|ID      | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RNF-01| O site deve ser desenvolvido utilizando-se a plataforma de hospedagem e controle de versão de código GitHub | ALTA | 
 |RNF-02| O site deve ser responsivo permitindo a visualização em um celular de forma adequada  | ALTA |
@@ -163,7 +170,9 @@ Este projeto possui algumas limitações e deve respeitar parâmetros previament
 - RE-03: O aplicativo não pode utilizar back-end. 
 - RE-04: A solução e o projeto devem ser desenvolvidos pela equipe do projeto.   -->
 	
-<li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
+<!-- <li><a href="docs/03-Metodologia.md"> Metodologia</a></li> -->
+
+<li> Metodologia </li>
 	
 A metodologia consiste nas definições de ferramentas utilizadas pela equipe tanto para a manutenção do código fonte quanto para a organização do time na execução das tarefas do projeto.  
 	
@@ -206,7 +215,9 @@ A seguir são apresentadas algumas sprints que foram elaboradas como previsão d
 8. Projeto de interface da tela 4; 
 9. (...) 
 	
-<li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
+<!-- <li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li> -->
+
+<li> Projeto de Interface </li>
 	
 A interface do ComparaFarma prevê tela inicial e telas posteriores a serem acessadas pelos usuários. Para tal, a equipe elaborou fluxos de telas, tanto na visão do cliente como do dono do estabelecimento de venda de medicamentos. 
 
