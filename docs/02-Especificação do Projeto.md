@@ -1,38 +1,40 @@
 	
-<li>
-Especificação do Projeto
-</li>
+# Especificação do Projeto
   	
 Este projeto foi elaborado pela equipe de produção após a detecção da necessidade de alguns usuários. Posteriormente, a equipe realizou pesquisas e observação de pessoas, suas rotinas diárias e suas necessidades para visualização de como melhor atendê-los. Com isso, foram estabelecidas as personas, as histórias e os requisitos do projeto, conforme detalhado a seguir.
 	
-2.1. Personas
+## Personas
 A seguir são apresentadas as personas importantes para o desenvolvimento desse projeto, criadoras de histórias que guiarão a construção das funcionalidades desse sistema.
 
-- Persona 1: Luzia Silva
-Idade: 60 anos
-Profissão: Motorista de ônibus
-Mulher que mora em uma cidade grande e trabalha como motorista de ônibus. Ela foi diagnosticada com diabetes tipo 2 há cinco anos.
+- **Persona 1**\
+Nome: Luzia Silva\
+Idade: 60 anos\
+Profissão: Motorista de ônibus\
+História: Mulher que mora em uma cidade grande e trabalha como motorista de ônibus. Ela foi diagnosticada com diabetes tipo 2 há cinco anos.\
 Desafios: precisa fazer um controle rigoroso da glicemia para evitar complicações em sua saúde; precisa lidar com os altos preços dos medicamentos e a dificuldade de encontrá-los em estoque em algumas farmácias.
   
-- Persona 2: Carolina Souza
-Idade: 32 anos
-Profissão: Professora
-Mulher que mora em uma cidade litorânea. Ela trabalha como professora e é uma pessoa muito ativa. Carolina foi diagnosticada com asma com 12 anos de idade.
+- **Persona 2**\
+Nome: Carolina Souza\
+Idade: 32 anos\
+Profissão: Professora\
+História: Mulher que mora em uma cidade litorânea. Ela trabalha como professora e é uma pessoa muito ativa. Carolina foi diagnosticada com asma com 12 anos de idade.\
 Desafios: precisa lidar com as crises de asma e evitar possíveis desencadeadores de suas crises, como poeira, ácaros e mudanças bruscas de temperatura; precisa encontrar rapidamente os medicamentos que precisa quando uma crise ocorre.
   
-- Persona 3: José Silva
-Idade: 27 anos
-Profissão: Designer Gráfico
-Homem que mora em uma cidade pequena. Ele trabalha como designer gráfico e gosta de passar seu tempo livre fazendo atividades criativas. José foi diagnosticado com depressão há alguns anos e desde então precisa lidar com os sintomas da doença.
+- **Persona 3**\
+Nome: José Silva\
+Idade: 27 anos\
+Profissão: Designer Gráfico\
+História: Homem que mora em uma cidade pequena. Ele trabalha como designer gráfico e gosta de passar seu tempo livre fazendo atividades criativas. José foi diagnosticado com depressão há alguns anos e desde então precisa lidar com os sintomas da doença.\
 Desafios: precisa lidar com os sintomas da depressão, como a falta de energia e a falta de motivação para realizar tarefas diárias; precisa encontrar os medicamentos que precisa para controlar os sintomas e evitar recaídas.
 	
-- Persona 4: Marcos Castro
-Idade: 48 anos
-Profissão: Empresário
-Homem que mora em uma cidade grande e é proprietário de uma farmácia. Tem observado seus ganhos reduzirem nos últimos anos devido ao aumento de farmácias pertencentes a grandes redes. Gostaria de aumentar os lucros.
+- **Persona 4**\
+Nome: Marcos Castro\
+Idade: 48 anos\
+Profissão: Empresário\
+História:Homem que mora em uma cidade grande e é proprietário de uma farmácia. Tem observado seus ganhos reduzirem nos últimos anos devido ao aumento de farmácias pertencentes a grandes redes. Gostaria de aumentar os lucros.\
 Desafios: precisa aumentar os lucros com pouco investimento; gostaria de vender para outros públicos que não somente os do entorno da Farmácia.
 
-2.2. Histórias de usuários
+## Histórias de usuários
 				 
 A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários:
 
@@ -57,11 +59,11 @@ A partir da compreensão do dia a dia das personas identificadas para o projeto,
 - Marcos Castro: desejo fornecer acesso ao seu estoque e seus preços para clientes diferentes dos que ele já tem para conseguir novos clientes, aumentando sua renda. 
 - Marcos Castro: desejo ter dados sobre os medicamentos mais procurados em aplicativos de orçamento e o perfil dos clientes que procuram para trabalhar melhor suas estratégias de divulgação de acordo com os interesses dos clientes. 
 	 -->
-2.3. Requisitos do Projeto 
+## Requisitos do Projeto 
 	
 Constituem requisitos funcionais, que descrevem as possibilidades de interação dos usuários, e requisitos não funcionais, que descrevem os aspectos que o sistema deverá apresentar de maneira geral, elencados nesta seção. 
 
-2.3.1 Requisitos Funcionais 
+### Requisitos Funcionais 
 	
 A seguir são apresentados os requisitos funcionais do projeto, indicando a prioridade em que devem ser entregues. 
 	
@@ -81,7 +83,7 @@ A seguir são apresentados os requisitos funcionais do projeto, indicando a prio
 - RF-05: Prioridade baixa. O site deve permitir que o usuário compartilhe o resultado de sua pesquisa nas redes sociais. 
 - RF-06: Prioridade baixa. O site deve permitir que o usuário ative alertas de preço dos medicamentos e enviar um e-mail quando o preço for alcançado.  -->
 	
-2.3.2 Requisitos Não Funcionais 
+### Requisitos Não Funcionais 
 	
 O projeto deverá atender também os requisitos não funcionais, descritos a seguir. 
 	
@@ -97,7 +99,7 @@ O projeto deverá atender também os requisitos não funcionais, descritos a seg
 - RNF-03: Prioridade alta. O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) 
 - RNF-04: Prioridade média. O site deve ter bom nível de contraste entre os elementos da tela. 
 	 -->
-2.3.3 Restrições 
+### Restrições 
 	
 Este projeto possui algumas limitações e deve respeitar parâmetros previamente estabelecidos, conforme descrito a seguir. 
 

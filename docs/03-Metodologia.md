@@ -1,8 +1,8 @@
-<li> Metodologia </li>
+# Metodologia 
 	
 A metodologia consiste nas definições de ferramentas utilizadas pela equipe tanto para a manutenção do código fonte quanto para a organização do time na execução das tarefas do projeto.  
 	
-3.1. Relação de Ambientes de Trabalho 
+## Relação de Ambientes de Trabalho 
 	
 Os artefatos do projeto serão desenvolvidos nas plataformas apresentadas pelo quadro a seguir. 
 
@@ -13,7 +13,7 @@ Os artefatos do projeto serão desenvolvidos nas plataformas apresentadas pelo q
 |Projeto de Interface e Wireframes| <a href="https://marvelapp.com/project/6697194"> Marvel </a> | 
 
 
-3.2. Gerenciamento do Projeto 
+## Gerenciamento do Projeto 
 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para a definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira: 
 - Product Owner: Marco Rodrigo Costa 
@@ -29,17 +29,15 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 O quadro kanban do grupo desenvolvido na ferramenta de gerenciamento de projetos está disponível através da URL https://trello.com/b/EH10wmgQ/comparafarma.
 
-Figura 1 – Imagem da tela do Trello, com atividades a serem desenvolvidas. 
+**Figura 1** – Imagem da tela do Trello, com atividades a serem desenvolvidas. 
 
 ![Trello](img/TrelloCompara.png)
-<center>Trello</center>
 
 A organização da metodologia de trabalho é baseada no método Scrum e efetivado em sprints, sendo a seguir apresentada uma lista de sprints planejadas pelo grupo. O planejamento é de que cada sprint tenha duração de 7 dias, com entrega de artefatos intermediários.  
 
-Figura 2 – Esquema de trabalho, no modelo Scrum, da equipe envolvida na confecção do ComparaFarma.
+**Figura 2** – Esquema de trabalho, no modelo Scrum, da equipe envolvida na confecção do ComparaFarma.
 
 ![Scrum](img/ScrumCompara.png)
-<center>Scrum</center>
 
 A seguir são apresentadas algumas sprints que foram elaboradas como previsão de trabalho, já na ordem de sua execução, de acordo com as prioridades dos requisitos e Product backlog: 
 1. Criação da área de trabalho no Trello; 
