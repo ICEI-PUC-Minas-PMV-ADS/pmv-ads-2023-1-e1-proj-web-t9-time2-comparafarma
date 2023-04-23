@@ -1,46 +1,25 @@
-# Introdução
+<ol>
+<li>
+Documentação de Contexto 
+</li>
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Em 2003, por meio da implementação da Lei 10.742, criou-se a Câmara de Regulação do Mercado de Medicamentos (CMED), que passou a estabelecer preços máximos ao consumidor (PMC) para medicamentos, assim como uma série de outros controles. Em termos da literatura econômica, isso significou adotar o modelo de preço-teto para regulação de preços nesse mercado.  O ajuste de preços de medicamentos se baseia em um modelo de teto de preços calculado com base: (1) em um índice - o Índice Nacional de Preços ao Consumidor Amplo (IPCA), que é calculado pelo Instituto Brasileiro de Geografia e Estatística (IBGE); (2) em um fator de produtividade - expresso em percentual e que permite repassar aos consumidores ganhos de produtividade das empresas produtoras de medicamentos; e (3) em um fator de ajuste de preços relativos intrassetor - calculado com base no poder de mercado, que é determinado pelo poder de monopólio ou oligopólio, na assimetria de informação, nas barreiras à entrada e outros, e entre setores - calculado com base na variação dos custos dos insumos, desde que tais custos não sejam recuperados pelo cômputo do índice (DOU, 2003).
+O ajuste de preços de medicamentos tem como referência o mais recente preço do fabricante (PF). Por sua vez, o preço máximo ao consumidor (PMC) é obtido por meio da divisão do PF pelos fatores calculados, levando em conta as cargas tributárias do imposto sobre circulação de mercadorias e serviços (ICMS). As unidades de comércio varejista devem manter à disposição dos consumidores e dos órgãos de defesa do consumidor as listas dos preços de medicamentos atualizadas, contendo PF e PMC (Souza et al., 2021).
+De acordo com Souza et al. (2021), o atual modelo de reajuste de preços tem utilizado PMCs descolados da realidade, aumentando a assimetria de informação e possibilitando futuros aumentos abusivos. Modelos regulatórios baseados em teto de preços, como o utilizado no Brasil, pressupõem realinhamentos periódicos dos preços aos valores de mercado a cada dois até, no máximo, cinco anos. No Brasil, este modelo permanece há 16 anos em vigor, sem qualquer realinhamento, com consequentes distorções acumuladas entre PMC e preços praticados. O fato de não se realizar avaliações periódicas dos preços praticados no mercado, ajustando o PMC para algo mais próximo da realidade do mercado parece ser um problema bastante relevante e com implicações para a eficácia da regulação e para o bem-estar dos consumidores.
+O Senado analisa um projeto de lei que pode alterar as regras para a definição dos preços de medicamentos no Brasil. O PL 5591/2020, de autoria do senador Fabiano Contarato (ES), prevê entre outras coisas a possibilidade de reajustar os valores para baixo, inexistente até os dias atuais, e coloca novos requisitos de transparência para a indústria farmacêutica com o objetivo de garantir preços-teto mais justos. Enquanto isso não ocorre, cabe ao consumidor pesquisar cada vez mais a variação de preços em cada drogaria, pelo medicamento de referência e o genérico, e a optar pela versão mais barata para que isso não o impacte financeiramente. 
 
-## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+1.1. O problema abordado neste trabalho consiste nas dificuldades enfrentadas pelos consumidores brasileiros para comparar o preço de medicamentos em farmácias pesquisando em diversos sites, aplicativos ou indo até os estabelecimentos.  
+  
+1.2 Com o intuito de proporcionar a comparação do preço de medicamentos em farmácias distintas, em uma única aplicação, foram estabelecidos os objetivos a seguir.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+1.2.1 O objetivo geral deste projeto é desenvolver uma aplicação Web Front-End que permita aos seus usuários a comparação do preço de medicamentos em diversas farmácias com maior agilidade e praticidade.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
-
-## Objetivos
-
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
-## Justificativa
-
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
-
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
-
-## Público-Alvo
-
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
-
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+1.2.1 Como objetivos específicos deste projeto, pode-se listar:
+- disponibilizar o contato das farmácias para que o usuário possa verificar a disponibilidade dos produtos desejados;
+- demonstrar a distância do endereço do usuário até a farmácia escolhida por ele;
+- proporcionar a criação de alertas de preço para que o usuário seja notificado quando o medicamento alcançar valor igual ou inferior ao que for estabelecido;
+- permitir que o usuário crie uma lista de produtos de maior interesse para acesso e acompanhamento mais fácil.
+	
+1.3. Justificativa: Os resultados de um estudo de Souza et al. (2021) mostram uma diferença no comportamento dos preços praticados na venda de medicamentos de referência e genéricos em relação ao PMC. Com base nesses estudos, pode-se observar que os medicamentos genéricos, em sua maioria (72%), tendiam a praticar diferenças médias percentuais de preços que estavam mais de 40% abaixo do PMC (20%) e a maioria dos medicamentos de referência (88%) tendia a praticar diferenças médias percentuais que estavam menos de 40% abaixo do PMC (20%). Com o aumento de 10,08% estabelecido pelo CMED em 2021, o IDEC (Instituto Brasileiro de Defesa do Consumidor) vem alertando que o aumento sentido pelos consumidores nas farmácias pode ser ainda maior, conforme relata Ana Carolina Navarrete, coordenadora do Programa de Saúde do IDEC: "A tabela da CMED é uma ficção porque o preço estabelecido logo na chegada de um novo produto farmacêutico ao país é, na maior parte das vezes, artificialmente alto. Na prática, isso significa que o preço que pagamos na farmácia depende dos supostos descontos aplicados pelas empresas – e isso faz com que os valores possam variar duas, três ou quatro vezes e, ainda assim, estar dentro dos limites da regulação. [...] O que vemos é que as distorções que começam com a definição dos preços de entrada apenas aumentam com o passar dos anos, colocando os consumidores – e principalmente aqueles que dependem de tratamentos contínuos – em uma situação muito desfavorável (NAVARRETE)".   Portanto, este projeto se justifica pois os consumidores cada vez mais buscam por menores preços de medicamentos e possuem, para tal, diversas opções de farmácias, podendo ter cada uma com seu respectivo aplicativo de orçamento. Considerando possíveis dificuldades de locomoção de idosos e a vida agitada e corrida da população adulta, uma aplicação que facilite e agilize a comparação de preços de diversas farmácias simultaneamente se faz bastante útil.
+	
+1.4. O público-alvo deste projeto são adultos e idosos que compram regularmente ou esporadicamente medicamentos em farmácias e necessitam de cotações com agilidade e fácil acesso. Entende-se que muitos adultos usam um ou mais medicamentos em seu dia a dia, além de comprarem medicamentos para filhos e familiares. Além disso, idosos, em grande parte, são poli-medicados, fazendo compras com regularidade, além de poderem apresentar dificuldades de locomoção. 

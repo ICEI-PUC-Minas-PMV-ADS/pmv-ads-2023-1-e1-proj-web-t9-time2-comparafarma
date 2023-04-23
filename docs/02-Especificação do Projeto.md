@@ -1,91 +1,117 @@
-# Especificações do Projeto
+	
+<li>
+Especificação do Projeto
+</li>
+  	
+Este projeto foi elaborado pela equipe de produção após a detecção da necessidade de alguns usuários. Posteriormente, a equipe realizou pesquisas e observação de pessoas, suas rotinas diárias e suas necessidades para visualização de como melhor atendê-los. Com isso, foram estabelecidas as personas, as histórias e os requisitos do projeto, conforme detalhado a seguir.
+	
+2.1. Personas
+A seguir são apresentadas as personas importantes para o desenvolvimento desse projeto, criadoras de histórias que guiarão a construção das funcionalidades desse sistema.
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
+- Persona 1: Luzia Silva
+Idade: 60 anos
+Profissão: Motorista de ônibus
+Mulher que mora em uma cidade grande e trabalha como motorista de ônibus. Ela foi diagnosticada com diabetes tipo 2 há cinco anos.
+Desafios: precisa fazer um controle rigoroso da glicemia para evitar complicações em sua saúde; precisa lidar com os altos preços dos medicamentos e a dificuldade de encontrá-los em estoque em algumas farmácias.
+  
+- Persona 2: Carolina Souza
+Idade: 32 anos
+Profissão: Professora
+Mulher que mora em uma cidade litorânea. Ela trabalha como professora e é uma pessoa muito ativa. Carolina foi diagnosticada com asma com 12 anos de idade.
+Desafios: precisa lidar com as crises de asma e evitar possíveis desencadeadores de suas crises, como poeira, ácaros e mudanças bruscas de temperatura; precisa encontrar rapidamente os medicamentos que precisa quando uma crise ocorre.
+  
+- Persona 3: José Silva
+Idade: 27 anos
+Profissão: Designer Gráfico
+Homem que mora em uma cidade pequena. Ele trabalha como designer gráfico e gosta de passar seu tempo livre fazendo atividades criativas. José foi diagnosticado com depressão há alguns anos e desde então precisa lidar com os sintomas da doença.
+Desafios: precisa lidar com os sintomas da depressão, como a falta de energia e a falta de motivação para realizar tarefas diárias; precisa encontrar os medicamentos que precisa para controlar os sintomas e evitar recaídas.
+	
+- Persona 4: Marcos Castro
+Idade: 48 anos
+Profissão: Empresário
+Homem que mora em uma cidade grande e é proprietário de uma farmácia. Tem observado seus ganhos reduzirem nos últimos anos devido ao aumento de farmácias pertencentes a grandes redes. Gostaria de aumentar os lucros.
+Desafios: precisa aumentar os lucros com pouco investimento; gostaria de vender para outros públicos que não somente os do entorno da Farmácia.
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
+2.2. Histórias de usuários
+				 
+A partir da compreensão do dia a dia das personas identificadas para o projeto, foram registradas as seguintes histórias de usuários:
 
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
-## Personas
-
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
-
-## Histórias de Usuários
-
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-## Requisitos
-
-As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
-
-### Requisitos Funcionais
-
-|ID    | Descrição do Requisito  | Prioridade |
+|Eu como ... (PERSONA)| ... quero/desejo ... (O QUE)| ... para ....  (POR QUE)|
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|Luzia Silva| encontrar uma plataforma de comparação de preços que apresente os valores dos medicamentos em diferentes farmácias da região.  | economizar tempo e dinheiro na compra dos remédios para controle da diabetes.  | 
+|Luzia Silva | poder fazer buscas por nome do medicamento e receber informações detalhadas sobre as diferentes opções disponíveis nas farmácias próximas a minha casa.   | encontrar o melhor preço para os medicamentos que utilizo.  |
+|Carolina Souza | desejo ter acesso às informações de contato das farmácias.  | poder entrar em contato e tirar dúvidas sobre a disponibilidade do produto.  |
+|Carolina Souza | criar uma lista de favoritos com os medicamentos que utilizo com frequência.  | monitorar os preços e receber alertas quando houver promoções.  |
+|José Silva  | poder compartilhar minhas buscas e resultados nas redes sociais.   | ajudar outras pessoas que estejam passando por situações semelhantes. |
+|José Silva  | ter a opção de filtrar as buscas por região ou bairro.   | encontrar as farmácias mais próximas de mim. |
+|Marcos Castro | fornecer acesso ao seu estoque e seus preços para clientes diferentes dos que ele já tem.   | conseguir novos clientes, aumentando sua renda.   |
+|Marcos Castro  | ter dados sobre os medicamentos mais procurados em aplicativos de orçamento e o perfil dos clientes que procuram.   | trabalhar melhor suas estratégias de divulgação de acordo com os interesses dos clientes.   |
 
+<!-- 
+- Luzia Silva: desejo encontrar uma plataforma de comparação de preços que apresente os valores dos medicamentos em diferentes farmácias da região para economizar tempo e dinheiro na compra dos remédios para controle da diabetes. 
+- Luzia Silva: desejo poder fazer buscas por nome do medicamento e receber informações detalhadas sobre as diferentes opções disponíveis nas farmácias próximas a minha casa para encontrar o melhor preço para os medicamentos que utilizo. 
+- Carolina Souza: desejo ter acesso às informações de contato das farmácias para poder entrar em contato e tirar dúvidas sobre a disponibilidade do produto. 
+- Carolina Souza: desejo criar uma lista de favoritos com os medicamentos que utilizo com frequência para monitorar os preços e receber alertas quando houver promoções. 
+- José Silva: desejo poder compartilhar minhas buscas e resultados nas redes sociais para ajudar outras pessoas que estejam passando por situações semelhantes. 
+- José Silva: desejo ter a opção de filtrar as buscas por região ou bairro para encontrar as farmácias mais próximas de mim. 
+- Marcos Castro: desejo fornecer acesso ao seu estoque e seus preços para clientes diferentes dos que ele já tem para conseguir novos clientes, aumentando sua renda. 
+- Marcos Castro: desejo ter dados sobre os medicamentos mais procurados em aplicativos de orçamento e o perfil dos clientes que procuram para trabalhar melhor suas estratégias de divulgação de acordo com os interesses dos clientes. 
+	 -->
+2.3. Requisitos do Projeto 
+	
+Constituem requisitos funcionais, que descrevem as possibilidades de interação dos usuários, e requisitos não funcionais, que descrevem os aspectos que o sistema deverá apresentar de maneira geral, elencados nesta seção. 
 
-### Requisitos não Funcionais
+2.3.1 Requisitos Funcionais 
+	
+A seguir são apresentados os requisitos funcionais do projeto, indicando a prioridade em que devem ser entregues. 
+	
+|ID       | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RF-01| O site deve possuir uma página principal com informações que apresentem o aplicativo e permitam ao usuário buscar algum medicamento | ALTA | 
+|RF-02| O site deve apresentar uma página com o resultado da pesquisa feita pelo usuário e comparação do preço do medicamento consultado em farmácias diferentes  | ALTA |
+|RF-03| O site deve mostrar a localização e contato das farmácias  | MÉDIA |
+|RF-04| O site deve permitir que o usuário faça uma lista de favoritos  | BAIXA |
+|RF-05| O site deve permitir que o usuário compartilhe o resultado de sua pesquisa nas redes sociais  | BAIXA |
+|RF-06| O site deve permitir que o usuário ative alertas de preço dos medicamentos e enviar um e-mail quando o preço for alcançado  | BAIXA |
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+<!-- - RF-01: Prioridade alta. O site deve possuir uma página principal com informações que apresentem o aplicativo e permitam ao usuário buscar algum medicamento. 
+- RF-02: Prioridade alta. O site deve apresentar uma página com o resultado da pesquisa feita pelo usuário e comparação do preço do medicamento consultado em farmácias diferentes. 
+- RF-03: Prioridade média. O site deve mostrar a localização e contato das farmácias. 
+- RF-04: Prioridade baixa. O site deve permitir que o usuário faça uma lista de favoritos. 
+- RF-05: Prioridade baixa. O site deve permitir que o usuário compartilhe o resultado de sua pesquisa nas redes sociais. 
+- RF-06: Prioridade baixa. O site deve permitir que o usuário ative alertas de preço dos medicamentos e enviar um e-mail quando o preço for alcançado.  -->
+	
+2.3.2 Requisitos Não Funcionais 
+	
+O projeto deverá atender também os requisitos não funcionais, descritos a seguir. 
+	
+|ID      | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RNF-01| O site deve ser desenvolvido utilizando-se a plataforma de hospedagem e controle de versão de código GitHub | ALTA | 
+|RNF-02| O site deve ser responsivo permitindo a visualização em um celular de forma adequada  | ALTA |
+|RNF-03| O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge)   | ALTA |
+|RNF-04| O site deve ter bom nível de contraste entre os elementos da tela  | MÉDIA |
+<!-- 
+- RNF-01: Prioridade alta. O site deve ser desenvolvido utilizando-se a plataforma de hospedagem e controle de versão de código GitHub. 
+- RNF-02: Prioridade alta. O site deve ser responsivo permitindo a visualização em um celular de forma adequada. 
+- RNF-03: Prioridade alta. O site deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) 
+- RNF-04: Prioridade média. O site deve ter bom nível de contraste entre os elementos da tela. 
+	 -->
+2.3.3 Restrições 
+	
+Este projeto possui algumas limitações e deve respeitar parâmetros previamente estabelecidos, conforme descrito a seguir. 
 
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
+|ID    | Descrição do Requisito  | 
+|------|-----------------------------------------|
+|RE-01| O projeto deve respeitar os prazos das etapas estabelecidos no cronograma da disciplina | 
+|RE-02| A solução deve ser implementada em sua íntegra e apresentada até o dia 25/06/2023 |
+|RE-03| O aplicativo não pode utilizar back-end |
+|RE-04| A solução e o projeto devem ser desenvolvidos pela equipe do projeto |
 
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-## Restrições
-
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+<!-- 	
+- RE-01: O projeto deve respeitar os prazos das etapas estabelecidos no cronograma da disciplina. 
+- RE-02: A solução deve ser implementada em sua íntegra e apresentada até o dia 25/06/2023. 
+- RE-03: O aplicativo não pode utilizar back-end. 
+- RE-04: A solução e o projeto devem ser desenvolvidos pela equipe do projeto.   -->
+	
+<!-- <li><a href="docs/03-Metodologia.md"> Metodologia</a></li> -->
