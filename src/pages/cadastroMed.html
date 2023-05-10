@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  <link rel="stylesheet" href="../style/cadastroMed.css">
+</head>
+
+<body>
+<header class="navbar navbar-expand-lg bd-navbar">
+  <nav class="container-xxl bd-gutter flex-wrap flex-lg-nowrap">
+        <a class="navbar-brand" href="#"><img class="logo" src="/src/img/ComparaFarma_Logo.png" alt="logo"></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Favoritos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Cadastrar medicamentos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Login</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<br/>
+<h1>Dados do Medicamento</h1>
+<br/>
+
+<form>
+    <div class="form-group">
+        <label for="nomemedicamento">Nome do medicamento:</label>
+        <input type="text" class="form-control" id="nomemedicamento">
+      </div>
+    <div class="form-group">
+        <label for="preco">Preço:</label>
+        <input type="number" class="form-control" id="preco
+    </div>
+    <div class="form-group">
+        <label for="descricao">Descrição:</label>
+        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+      </div>
+      <br/>
+    <h6>Enviar imagem do medicamento:</h6>
+      <div class="custom-file">
+          <input type="file" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01">
+          <label class="custom-file-label" for="inputGroupFile01">Escolher arquivo</label>
+        </div>
+      </div>
+      
+    </form>
+    <br/>
+    <h1>Contato e Endereço</h1>
+    <br/>
+
+    <form>
+        <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="inputEmail4">E-mail:</label>
+            <input type="email" class="form-control" id="inputEmail4">
+          </div>
+          <div class="form-group col-md-6">
+            <label for="inputtel">Telefone:</label>
+            <input type="number" class="form-control" id="inputtel">
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="inputAddress">Endereço:</label>
+          <input type="text" class="form-control" id="inputAddress">
+        </div>
+                <div class="form-row">
+          <div class="form-group col-md-6">
+            <label for="inputCity">Cidade:</label>
+            <input type="text" class="form-control" id="inputCity">
+          </div>
+          <div class="form-row">
+            <div class="form-group col-md-6">
+              <label for="inputCity">Estado:</label>
+              <input type="text" class="form-control" id="inputCity">
+            </div>
+          <div class="form-group col-md-2">
+            <label for="inputZip">CEP:</label>
+            <input type="text" class="form-control" id="inputZip">
+          </div>
+        </div>
+        <div class="form-group">
+          </div>
+          <br/>
+        <button type="submit" class="btn btn-primary">CADASTRAR</button>
+      </form>
+      <br/>
+<div class="box">
+    <br/>
+
+  <div class="container">
+  
+      <main class="col-md-9 mb-2">
+        <div class="row">
+          <header class="mainHeader col-md-12">
+            <h1 class="title">Sobre nós</h1>
+          </header>
+        </div>
+        <div class="row">
+          <section class="col-md-12">
+            <p class="content">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti illum
+              distinctio corporis culpa, cum dolorem incidunt assumenda esse ducimus aut minima
+              reiciendis
+              quia ex quos magnam beatae dignissimos, placeat adipisci dolore! Iusto quia tempora qui
+              provident voluptatibus libero ut atque
+              cumque a
+              eaque velit quo animi labore rem iure totam esse. Aliquam, labore itaque.</p>
+          </section>
+        </div>
+      </main>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <p>Copyrigth(2023) - ComparaFarma</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
