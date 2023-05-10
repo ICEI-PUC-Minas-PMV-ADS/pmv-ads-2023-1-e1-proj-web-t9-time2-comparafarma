@@ -7,7 +7,6 @@ a.nav-link {
     border-radius: 10px;
     padding: 5px;
     margin: 5px;
-
 }
 img.logo {
     width: 120px;
@@ -38,7 +37,8 @@ footer > p {
 }
 .btn {
     background: #778899;
+    color: #ffffff;
 }
 .btn:hover {
-    background: #778899;
+    background: #637180;
 }
