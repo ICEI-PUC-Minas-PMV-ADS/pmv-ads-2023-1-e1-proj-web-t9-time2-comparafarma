@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,12 +11,9 @@
     <link rel="stylesheet" href="../style/style-favoritos.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.5.0/bootstrap-icons.min.css">
- 
-  
-</head>
+  </head>
 <body>
 
-  <!-- Cabeçalho -->  
   <header class="navbar navbar-expand-lg bd-navbar">
     <nav class="container-xxl bd-gutter flex-wrap flex-lg-nowrap">
       <a class="navbar-brand" href="home.html"><img class="logo" src="../img/ComparaFarma_Logo.png" alt="logo"></a>
@@ -44,14 +40,14 @@
     </nav>
   </header>
 
-  <!-- Conteúdo principal -->
-  <div class="box container">  
+  
+  <div class="box container-xxl">  
     <div class="row">
         <h1 class="title">Meus Favoritos</h1>
     </div>
 
     <div class="row">
-        <div class="search-bar">
+        <div class="col-md-4">
             <h5 class="text-center mt-5">Pesquisa Personalizada</h5>
         <form>
             <div class="form-group mt-5">
@@ -70,10 +66,10 @@
             <div class="form-group">
                 <input type="text" class="form-control" placeholder="Digite sua região">
                 </div>
-            <button type="submit" class="btn btn-primary mx-auto d-block mt-5">Ativar Filtragem</button>
+            <button type="submit" class="btn btn-primary mx-auto d-block mt-5 mb-5">Ativar Filtragem</button>
         </form>
         </div>
-        <div class="results text-dark">
+        <div class="col-md-8 results text-dark">
             <div class="card">
                 <div class="card-body">
                     <div class="row">
@@ -115,7 +111,7 @@
                      </div>
                 </div>
             </div>
-            <div class="card">
+            <div class="card mb-5">
                 <div class="card-body">
                     <div class="row">
                         <div class="col-md-4">
@@ -137,7 +133,7 @@
                 </div>
             </div>
         
-        <!-- Adicione mais resultados aqui -->
+        
         </div>
     </div>
     </div>
