@@ -38,113 +38,77 @@
     </nav>
   </header>
 
-  <div class="box">
+  <div class="box container">
+
+    <div id="products" class="container carousel slide" data-bs-ride="carousel">
+      <ul class="carousel-inner card-list">
+        <li class="card carousel-item active">
+          <div class="card-body">
+            <img src="../img/paracetamol.jpg" class="card-img-top img-card" alt="paracetamol">
+            <h1 class=" card-title">R$ 14,88</h1>
+            <h2 class="card-title">Paracetamol</h2>
+            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore pariatur deleniti ipsa
+              a reprehenderit praesentium amet, itaque quaerat unde ullam sequi esse placeat nam nostrum. Tempore
+              eveniet eligendi voluptatibus quaerat vel possimus iste, tempora quibusdam facere inventore, nisi ratione
+              esse nostrum, veritatis cumque repellat quis voluptatum velit? Aut, obcaecati quod.</p>
+          </div>
+        </li>
+        <li class="card carousel-item">
+          <div class="card-body">
+            <img src="../img/resfedryl.webp" class="card-img-top img-card" alt="resfedryl">
+            <h1 class="card-title">R$ 19.83</h1>
+            <h2 class="card-title">Resfedryl</h2>
+            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit quasi doloremque ratione
+              maiores repudiandae facilis magnam ab sit laborum, aliquid dolorem soluta accusamus consequatur officia
+              magni. Sint itaque facilis sunt sit assumenda quasi provident, ipsa iusto culpa officiis tenetur a iste
+              laborum laboriosam repellat repellendus aliquam, eaque cupiditate accusantium. Sed?</p>
+          </div>
+        </li>
+        <li class="card carousel-item">
+          <div class="card-body">
+            <img src="../img/loratadina.webp" class="card-img-top img-card" alt="loratadina">
+            <h1 class="card-title">R$ 16,89</h1>
+            <h2 class="card-title">Loratadina</h2>
+            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae debitis aut
+              inventore nulla ipsa non nobis eos dolores ratione ex dolorem autem, natus ut nemo, odio sit sequi
+              corporis placeat libero exercitationem provident minus perferendis doloremque quisquam. Dolorem omnis
+              architecto possimus delectus cupiditate blanditiis molestiae voluptate animi sint ipsam? Porro.</p>
+          </div>
+        </li>
+      </ul>
+
+      <button class="carousel-control-prev" type="button" data-bs-target="#products" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next" type="button" data-bs-target="#products" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
 
     <div class="container">
+      <form class="form-search">
 
-      <div class="row">
-        <form action="" class="col-md-3 mb-2">
-          <div class="input-group mb-2">
-            <input type="search" class="form-control" placeholder="nome do medicamento"
-              aria-label="nome do medicamento">
-            <button class="btn" type="submit"><img class="lupa" src="/src/img/lupa.png" alt="lupa"></button>
-          </div>
-          <label for="customRange2" class="form-label">Valor máximo</label>
-          <input type="range" class="form-range" min="1" max="100" id="customRange2">
-          <select class="form-select form-select-sm mb-3" aria-label=".form-select-sm example">
+        <div class="input-group col-md-12">
+          <input type="text" class="form-control" placeholder="nome do medicamento" aria-label="nome do medicamento">
+          <button class="btn" type="button"><img class="lupa" src="/src/img/lupa.png" alt="lupa"></button>
+        </div>
+
+        <div class="filter col-md-4">
+          <label for="valor-maximo" class="form-label">Valor máximo</label>
+          <input type="range" class="form-range mb-4" min="1" max="100" id="valor-maximo">
+          <select class="form-select form-select-sm mb-4" aria-label=".form-select-sm example">
             <option selected>Ordenar por...</option>
             <option value="1">Maior preço</option>
             <option value="2">Menor preço</option>
           </select>
-          <input class="form-control mb-3" list="datalistOptions" id="exampleDataList"
+          <input class="form-control mb-4" list="datalistOptions" id="exampleDataList"
             placeholder="Digite sua região...">
-          <datalist id="datalistOptions">
-            <option value="BH">
-            <option value="São Paulo">
-            <option value="Rio de Janeiro">
-            <option value="Los Angeles">
-            <option value="Londres">
-          </datalist>
           <button type="button" class="btn">Ativar filtragem</button>
-        </form>
+        </div>
 
-        <main class="col-md-9 mb-2">
-          <div class="row">
-            <header class="mainHeader col-md-12">
-              <h1 class="title">Sobre nós</h1>
-            </header>
-          </div>
-          <div class="row">
-            <section class="col-md-12">
-              <p class="content">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti illum
-                distinctio corporis culpa, cum dolorem incidunt assumenda esse ducimus aut minima
-                reiciendis
-                quia ex quos magnam beatae dignissimos, placeat adipisci dolore! Iusto quia tempora qui
-                dicta soluta nostrum quasi, incidunt eligendi suscipit earum, at dolores eum labore!
-                Ullam
-                facere ut dolor odio veniam quas explicabo quidem odit? Adipisci impedit odit
-                accusantium
-                iure facilis tempora! Dignissimos, reiciendis. Velit iure sequi, eos provident ex eaque
-                odit
-                beatae quasi, sed veritatis iste nam eum suscipit quia consequatur, aspernatur a
-                laudantium
-                perspiciatis nihil fugiat. Aliquam dolor qui fuga accusamus tenetur nesciunt ad
-                explicabo
-                tempora sed, nemo saepe iste sunt error dicta distinctio obcaecati. Laborum at sed
-                pariatur
-                dolorum fugiat earum tempora labore doloribus, voluptatum, optio magni debitis ratione
-                ipsum, mollitia nemo explicabo expedita! Sed omnis debitis dolores repellat velit
-                explicabo
-                nisi modi beatae unde, sit voluptas quibusdam ea dolorum repudiandae aliquid optio
-                doloribus
-                veniam dolor eos qui iste incidunt rem blanditiis quod? Aut vero molestias error,
-                eligendi
-                quibusdam atque nesciunt vitae id distinctio mollitia at ut fugit! Nam hic magni labore,
-                quis esse asperiores voluptatum laborum eum, repudiandae odit error totam, sequi minus.
-                Explicabo dolore distinctio, rem quis sed quisquam corporis magnam aliquid minus itaque
-                eligendi? Officia sint magni omnis, voluptate sed facilis aliquid provident cumque. Sit,
-                corporis? Soluta assumenda laborum, ratione repellat beatae quas esse, ipsa perferendis
-                modi
-                consectetur, eum totam amet nostrum blanditiis. Obcaecati, mollitia illum tenetur ex
-                laborum, id ullam laboriosam, repellendus consequatur ratione hic natus quasi magnam
-                sequi.
-                Rem, et, accusantium magnam, sint rerum maxime aspernatur hic iste earum deleniti
-                eligendi
-                cumque qui mollitia. Autem sequi atque incidunt, ullam nostrum, eligendi nobis quibusdam
-                odit ex accusantium iusto fuga dolores veniam obcaecati sapiente cum debitis quia ab
-                adipisci vitae? Veritatis nemo ipsa assumenda et, facilis consequatur doloribus autem
-                dolorum laudantium veniam quo eaque sunt sint expedita, debitis explicabo consectetur
-                aspernatur enim vel corporis voluptates sequi cupiditate vero non? Maiores nemo numquam
-                reiciendis labore excepturi soluta eum voluptas quae voluptatum consequatur dolore
-                assumenda, dolorum possimus vero modi, nam quia alias fuga suscipit libero
-                necessitatibus.
-                Accusamus necessitatibus amet saepe consequuntur quia molestiae nostrum officiis
-                aspernatur
-                accusantium, ut similique eveniet architecto et veritatis totam minus debitis labore
-                itaque
-                dicta laborum! Reprehenderit, suscipit facere possimus modi quis itaque quo ipsam dolor
-                velit, molestias repellendus deleniti voluptatem nesciunt, nihil optio ullam sapiente
-                eius
-                aut. Ad, nemo et blanditiis doloremque at, sunt vitae porro, pariatur alias animi
-                assumenda
-                magnam incidunt. Sed est consequatur asperiores dolor. Libero facilis quia, culpa hic
-                magnam
-                assumenda suscipit alias sequi eos est? Alias minima illum est ex voluptatibus at
-                necessitatibus officiis aspernatur dignissimos! Iste, voluptate voluptates voluptatibus
-                quidem corporis quas repudiandae consequuntur, accusantium voluptatem reiciendis
-                exercitationem, tenetur nemo. Esse excepturi, illum neque repellat quasi nihil ullam
-                modi
-                tempore quibusdam distinctio corrupti veritatis laboriosam quas ducimus quos quam
-                doloremque
-                repellendus molestiae. Voluptatem illo perspiciatis laudantium ratione, officiis eum
-                nesciunt impedit minus alias adipisci, quod provident voluptatibus libero ut atque
-                cumque a
-                eaque velit quo animi labore rem iure totam esse. Aliquam, labore itaque.</p>
-            </section>
-          </div>
-        </main>
-      </div>
-
+      </form>
     </div>
 
   </div>
@@ -153,9 +117,9 @@
     <p>Copyrigth(2023) - ComparaFarma</p>
   </footer>
 
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
-    integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
-    crossorigin="anonymous"></script>
+  <script src=" https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous">
+    </script>
 </body>
 
 </html>
