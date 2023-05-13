@@ -53,9 +53,6 @@ div.card-body > h1 {
 div.card-body > h2 {
     font-size: 20pt;
 }
-div.card-body > p {
-    text-align: justify;
-}
 
 .btn {
     background: #4CAF50;
