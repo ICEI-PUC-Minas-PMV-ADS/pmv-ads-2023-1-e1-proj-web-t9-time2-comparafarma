@@ -2,9 +2,20 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+<!--
+ Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
 
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
+.-->
+
+A equipe trabalhou no planejamento dos testes a serem realizados na aplicação, com o objetivo de verificar os cumprimentos dos requisitos propostos no início desse projeto, conforme descrito na tabela dos casos de testes a seguir. Na seção seguinte, de registro de testes, são apresentados os resultados.
+
+| Casos de testes | Funcionalidade avaliada | Usuários participantes | Entrada testada | Saída esperada | 
+|--------|----------------------------------------|---------------------------------|--------------------------------|------------------------------|
+
+| CT-01 | Capacidade de a página home vincular à página de cadastro de medicamentos quando ocorrer o clique no botão "cadastro de medicamentos" | Sr. Marcos Castro, proprietário de farmácia | Clique no botão "cadastro de medicamentos" | Abertura da página de cadastro de medicamentos |
+| CT-02 |
+
  
 ## Ferramentas de Testes (Opcional)
 
