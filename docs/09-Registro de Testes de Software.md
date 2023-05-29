@@ -6,13 +6,14 @@
 Relatório com as evidências dos testes de software realizados no sistema pela equipe, baseado em um plano de testes pré-definido.
 .-->
 
-Na tabela a seguir são apresentados os Casos de testes realizados e seus repectivos resultados dos testes.
+No quadro a seguir são apresentados os Casos de testes realizados e seus repectivos resultados dos testes.
 
 | Casos de testes | Funcionalidade avaliada | Usuários participantes | Entrada testada | Saída esperada | Saída real do sistema | Registro de execução
 |------|------------------------|--------------------------|----------------------------|-------------------------|------------------------|------------------------|
 | CT-01 | Capacidade de a página home vincular à página de cadastro de medicamentos quando ocorrer o clique no botão "cadastro de medicamentos" | Sr. Marcos Castro, proprietário de farmácia | Clique no botão "cadastro de medicamentos" | Abertura da página de cadastro de medicamentos |   |   |
 | CT-02 | Aceite de entrada de dados em todos os campos da página de cadastro de medicamentos | Sr. Marcos Castro, proprietário de farmácia | Inserção dos dados nos campos da página citada | Confirmar cadastro realizado com sucesso |   |   |
 | CT-03 | Upload de arquivo de imagem do medicamento | Sr. Marcos Castro, proprietário de farmácia | Clique em "escolher arquivo" e busca do arquivo no repositório do usuário | Escolha do arquivo e confirmação do cadastro realizado com sucesso |   |   |
+| CT-04 | Aceite e rejeição de caracteres válidos e inválidos nos campos da página de cadastro de medicamentos | Sr. Marcos Castro, proprietário de farmácia | Teste de lançamento de letras, números e caracteres especiais nos campos |	Aceite de entrada e rejeição de entrada (através de mensagem de erro) de acordo com o que se espera de preenchimento em cada campo |   |   |
 
 ## Avaliação
 
