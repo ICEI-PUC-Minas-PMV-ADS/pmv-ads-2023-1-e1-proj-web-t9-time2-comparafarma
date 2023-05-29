@@ -8,13 +8,14 @@
 Enumere quais cenários de testes foram selecionados para teste. Neste tópico o grupo deve detalhar quais funcionalidades avaliadas, o grupo de usuários que foi escolhido para participar do teste e as ferramentas utilizadas.
 .-->
 
-A equipe trabalhou no planejamento dos testes a serem realizados na aplicação, com o objetivo de verificar os cumprimentos dos requisitos propostos no início desse projeto, conforme descrito na tabela dos casos de testes a seguir. Na seção seguinte, de registro de testes, são apresentados os resultados.
+A equipe trabalhou no planejamento dos testes a serem realizados na aplicação, com o objetivo de verificar os cumprimentos dos requisitos propostos no início desse projeto, conforme descrito no quadro dos casos de testes a seguir. Na seção seguinte, de registro de testes, são apresentados os resultados dos testes.
 
 | Casos de testes | Funcionalidade avaliada | Usuários participantes | Entrada testada | Saída esperada | 
 |--------|----------------------------------------|---------------------------------|--------------------------------|------------------------------|
 | CT-01 | Capacidade de a página home vincular à página de cadastro de medicamentos quando ocorrer o clique no botão "cadastro de medicamentos" | Sr. Marcos Castro, proprietário de farmácia | Clique no botão "cadastro de medicamentos" | Abertura da página de cadastro de medicamentos |
 | CT-02 | Aceite de entrada de dados em todos os campos da página de cadastro de medicamentos | Sr. Marcos Castro, proprietário de farmácia | Inserção dos dados nos campos da página citada | Confirmar cadastro realizado com sucesso |
 | CT-03 | Upload de arquivo de imagem do medicamento | Sr. Marcos Castro, proprietário de farmácia | Clique em "escolher arquivo" e busca do arquivo no repositório do usuário | Escolha do arquivo e confirmação do cadastro realizado com sucesso |
+| CT-04 | Aceite e rejeição de caracteres válidos e inválidos nos campos da página de cadastro de medicamentos | Sr. Marcos Castro, proprietário de farmácia | Teste de lançamento de letras, números e caracteres especiais nos campos | Aceite de entrada e rejeição de entrada (através de mensagem de erro) de acordo com o que se espera de preenchimento em cada campo |
 
  
 ## Ferramentas de Testes (Opcional)
