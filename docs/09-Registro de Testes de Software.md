@@ -14,12 +14,17 @@ No quadro a seguir são apresentados os Casos de testes realizados e seus repect
 | CT-02 | Aceite de entrada de dados em todos os campos da página de cadastro de medicamentos | Sr. Marcos Castro, proprietário de farmácia | Inserção dos dados nos campos da página citada | Confirmar cadastro realizado com sucesso | Foi possível finalizar o cadastro. | ![Envio cadastro](img/enviandoCadastro.PNG) ![Confirmação Salvamento](img/confirmaSalvar.PNG) |
 | CT-03 | Upload de arquivo de imagem do medicamento | Sr. Marcos Castro, proprietário de farmácia | Clique em "escolher arquivo" e busca do arquivo no repositório do usuário | Escolha do arquivo e sua anexação | Foi possível anexar o arquivo teste.  | ![Anexo](img/anexar.PNG) |
 | CT-04 | Aceite e rejeição de caracteres válidos e inválidos nos campos da página de cadastro de medicamentos | Sr. Marcos Castro, proprietário de farmácia | Teste de lançamento de letras, números e caracteres especiais nos campos |	Aceite de entrada e rejeição de entrada de acordo com o que se espera de preenchimento em cada campo | Os campos para números não aceitam letras. Os campos para letras aceitam números e letras.   | ![Teste de entrada de letras e números](img/testeLetrasNumeros.PNG) |
-
+| CT-05 |  |  |  |  |  |  |
+| CT-06 |  |  |  |  |  |  |
+| CT-07 |  |  |  |  |  |  |
+| CT-08 |  |  |  |  |  |  |
 
 
 ## Avaliação
 
+<!--
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+.-->
 
 > **Links Úteis**:
 > - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
