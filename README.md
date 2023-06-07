@@ -12,7 +12,6 @@
 - Christiane Curi Pereira
 - Gabriel Mautone Costa
 - Jonathan Francisco Rocha de Castro
-- Priscila Amaral Diniz
 
 ## Orientador
 
