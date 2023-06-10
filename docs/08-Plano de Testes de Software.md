@@ -19,6 +19,8 @@ A equipe trabalhou no planejamento dos testes a serem realizados na aplicação,
 | CT-05           | Capacidade da página home apresentar medicamentos em destaque, por menor preço, e um campo para pesquisas por nome de medicamentos    | Luzia Silva, cliente                         | Acessar o site através da Url em um navegador                             | Página home deve apresentar diferentes medicamentos com menores preços e disponibilizar um campo de pesquisa por nome de medicamentos |
 | CT-06           | Pesquisa por nome de medicamento                                                                                                      | Luzia Silva, cliente                         | Nome do medicamento desejado                                              | Listagem do medicamento pesquisado contendo valor, nome e descrição do mesmo                                                          |
 | CT-07           | Salvar e excluir favoritos                                                                                                            | Luzia Silva, cliente                         | Clique no icone de  "favoritar"                                           | Salvar produto como favorito ou excluir produto de favoritos                                               |
+| CT-08           | Logar e erro de Login                                                                                                            | Gabriel, cliente                         | Inserção dos dados nos campos da página citada  e clique no botão "Login"  
+            | Confirmar login realizado com sucesso
  
 ## Ferramentas de Testes (Opcional)
 
