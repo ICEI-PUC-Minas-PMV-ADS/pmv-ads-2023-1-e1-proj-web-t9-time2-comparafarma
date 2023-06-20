@@ -3,23 +3,23 @@ const db = {
     {
       nome: "Paracetamol",
       preco: 15.88,
-      imagem: "../img/paracetamol.jpg",
+      imagem: "docs/img/paracetamol1.PNG",
       descricao:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos eum eaque repudiandae fugit quo maxime sequi distinctio, quisquam accusantium possimus, culpa eligendi architecto libero, necessitatibus sint. Commodi laudantium cupiditate a aliquam totam corporis, delectus dolorum atque sunt culpa ab! Assumenda facere dolore illo itaque, nisi vel ipsam culpa voluptatem tenetur.",
+        "Caixa com 20 comprimidos de Paracetamol, com 500 mg cada. Fabricante: Prati-Donaduzzi. Medicamento genérico. Indicado para tratamento de dores e febre. Em caso de dúvidas, consulte o seu Farmacêutico ou Médico.",
     },
     {
       nome: "Paracetamol",
       preco: 14.88,
-      imagem: "../img/paracetamol.jpg",
+      imagem: "docs/img/paracetamol3.PNGg",
       descricao:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos eum eaque repudiandae fugit quo maxime sequi distinctio, quisquam accusantium possimus, culpa eligendi architecto libero, necessitatibus sint. Commodi laudantium cupiditate a aliquam totam corporis, delectus dolorum atque sunt culpa ab! Assumenda facere dolore illo itaque, nisi vel ipsam culpa voluptatem tenetur.",
+        "Caixa com 20 comprimidos de Paracetamol, com 750 mg cada. Fabricante: EMS. Medicamento genérico. É indicado para a redução da febre e para o alívio de dores leves a moderadas, tais como: dores de cabeça, dores no corpo, dores de dente, entre outras.",
     },
     {
       nome: "Paracetamol",
       preco: 13.88,
-      imagem: "../img/paracetamol.jpg",
+      imagem: "docs/img/paracetamol4.PNGg",
       descricao:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos eum eaque repudiandae fugit quo maxime sequi distinctio, quisquam accusantium possimus, culpa eligendi architecto libero, necessitatibus sint. Commodi laudantium cupiditate a aliquam totam corporis, delectus dolorum atque sunt culpa ab! Assumenda facere dolore illo itaque, nisi vel ipsam culpa voluptatem tenetur.",
+        "Caixa com 20 comprimidos de Paracetamol, com 750 mg cada. Fabricante: Medquímica. Medicamento genérico. Medicamento com efeito analgésico e antipirético, indicado para a alívio de dores de intensidade leve a moderada, incluindo dor de cabeça, dor muscular e cólicas menstruais, por exemplo.",
     },
     {
       nome: "Resfedryl",
