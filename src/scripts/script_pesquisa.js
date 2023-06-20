@@ -1,21 +1,21 @@
 const db = {
   dados: [
     {
-      nome: "Paracetamol",
+      nome: "Paracetamol 500 Prati-Donaduzzi",
       preco: 15.88,
       imagem: "docs/img/paracetamol1.PNG",
       descricao:
         "Caixa com 20 comprimidos de Paracetamol, com 500 mg cada. Fabricante: Prati-Donaduzzi. Medicamento genérico. Indicado para tratamento de dores e febre. Em caso de dúvidas, consulte o seu Farmacêutico ou Médico.",
     },
     {
-      nome: "Paracetamol",
+      nome: "Paracetamol 750 EMS",
       preco: 14.88,
       imagem: "docs/img/paracetamol3.PNGg",
       descricao:
         "Caixa com 20 comprimidos de Paracetamol, com 750 mg cada. Fabricante: EMS. Medicamento genérico. É indicado para a redução da febre e para o alívio de dores leves a moderadas, tais como: dores de cabeça, dores no corpo, dores de dente, entre outras.",
     },
     {
-      nome: "Paracetamol",
+      nome: "Paracetamol 750 Medquímica",
       preco: 13.88,
       imagem: "docs/img/paracetamol4.PNGg",
       descricao:
