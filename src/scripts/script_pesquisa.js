@@ -42,26 +42,26 @@ const db = {
       descricao:
         "Caixa com 10 comprimidos de Dipirona, com 1000 mg cada. Fabricante: Neo-Química. Medicamento genérico. Medicamento indicado para uso adulto, para tratamento e alívio de dores fortes ou febre alta. FARMÁCIA PAGUE BAIXO.",
     },
-    {
+       {
       nome: "Loratadina",
       preco: 16.89,
-      imagem: "../img/loratadina.webp",
+      imagem: "../img/loratadina1.PNG",
       descricao:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos eum eaque repudiandae fugit quo maxime sequi distinctio, quisquam accusantium possimus, culpa eligendi architecto libero, necessitatibus sint. Commodi laudantium cupiditate a aliquam totam corporis, delectus dolorum atque sunt culpa ab! Assumenda facere dolore illo itaque, nisi vel ipsam culpa voluptatem tenetur.",
+        "Caixa com 12 comprimidos com 10 mg cada. Fabricante: Biosintética. Medicamento genérico. Recomendamos o uso deste medicamento em caso de alergias ou hipersensibilidades, conforme indicação da bula. FARMÁCIA DROGACURA.",
     },
     {
       nome: "Loratadina",
       preco: 17.89,
-      imagem: "../img/loratadina.webp",
+      imagem: "../img/loratadina2.PNG",
       descricao:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos eum eaque repudiandae fugit quo maxime sequi distinctio, quisquam accusantium possimus, culpa eligendi architecto libero, necessitatibus sint. Commodi laudantium cupiditate a aliquam totam corporis, delectus dolorum atque sunt culpa ab! Assumenda facere dolore illo itaque, nisi vel ipsam culpa voluptatem tenetur.",
+        "Caixa com 12 comprimidos com 10 mg cada. Fabricante: Neo Química. Medicamento genérico. Este medicamento é indicado para o alívio dos sintomas associados com a rinite alérgica, como: coceira nasal, nariz escorrendo, espirros e coceira nos olhos. FARMÁCIA SAÚDE MAIS FARMA.",
     },
     {
       nome: "Loratadina",
       preco: 18.89,
-      imagem: "../img/loratadina.webp",
+      imagem: "../img/loratadina3.PNG",
       descricao:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos eum eaque repudiandae fugit quo maxime sequi distinctio, quisquam accusantium possimus, culpa eligendi architecto libero, necessitatibus sint. Commodi laudantium cupiditate a aliquam totam corporis, delectus dolorum atque sunt culpa ab! Assumenda facere dolore illo itaque, nisi vel ipsam culpa voluptatem tenetur.",
+        "Xarope de loratadina a 1 mg, contendo 100 mL no frasco. Sabor uva. Fabricante: Cimed. Nome do medicamento: Loratamed. Uso indicado para reduzir os sintomas de rinites alérgicas, coceiras e corizas. FARMÁCIA ALÉM DO PREÇO.",
     },
   ],
 };
