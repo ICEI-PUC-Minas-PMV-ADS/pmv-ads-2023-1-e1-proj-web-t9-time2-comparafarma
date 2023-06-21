@@ -5,42 +5,42 @@ const db = {
       preco: 15.88,
       imagem: "../img/paracetamol1.PNG",
       descricao:
-        "Caixa com 20 comprimidos de Paracetamol, com 500 mg cada. Fabricante: Prati-Donaduzzi. Medicamento genérico. Indicado para tratamento de dores e febre. Em caso de dúvidas, consulte o seu Farmacêutico ou Médico.",
+        "Caixa com 20 comprimidos de Paracetamol, com 500 mg cada. Fabricante: Prati-Donaduzzi. Medicamento genérico. Indicado para tratamento de dores e febre. Em caso de dúvidas, consulte o seu Farmacêutico ou Médico. FARMÁCIA PAGUE BAIXO.",
     },
     {
       nome: "Paracetamol 750 EMS",
       preco: 14.88,
       imagem: "../img/paracetamol3.PNG",
       descricao:
-        "Caixa com 20 comprimidos de Paracetamol, com 750 mg cada. Fabricante: EMS. Medicamento genérico. É indicado para a redução da febre e para o alívio de dores leves a moderadas, tais como: dores de cabeça, dores no corpo, dores de dente, entre outras.",
+        "Caixa com 20 comprimidos de Paracetamol, com 750 mg cada. Fabricante: EMS. Medicamento genérico. É indicado para a redução da febre e para o alívio de dores leves a moderadas, tais como: dores de cabeça, dores no corpo, dores de dente, entre outras. FARMÁCIA ALÉM DO PREÇO.",
     },
     {
       nome: "Paracetamol 750 Medquímica",
       preco: 13.88,
       imagem: "../img/paracetamol4.PNG",
       descricao:
-        "Caixa com 20 comprimidos de Paracetamol, com 750 mg cada. Fabricante: Medquímica. Medicamento genérico. Medicamento com efeito analgésico e antipirético, indicado para a alívio de dores de intensidade leve a moderada, incluindo dor de cabeça, dor muscular e cólicas menstruais, por exemplo.",
+        "Caixa com 20 comprimidos de Paracetamol, com 750 mg cada. Fabricante: Medquímica. Medicamento genérico. Medicamento com efeito analgésico e antipirético, indicado para a alívio de dores de intensidade leve a moderada, incluindo dor de cabeça, dor muscular e cólicas menstruais, por exemplo. FARMÁCIA BAIXÍSSIMO.",
     },
     {
-      nome: "Resfedryl",
+      nome: "Dipirona 500 mg Prati-Donaduzzi",
       preco: 19.83,
-      imagem: "../img/resfedryl.webp",
+      imagem: "../img/dipirona1.PNG",
       descricao:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos eum eaque repudiandae fugit quo maxime sequi distinctio, quisquam accusantium possimus, culpa eligendi architecto libero, necessitatibus sint. Commodi laudantium cupiditate a aliquam totam corporis, delectus dolorum atque sunt culpa ab! Assumenda facere dolore illo itaque, nisi vel ipsam culpa voluptatem tenetur.",
+        "Caixa com 20 comprimidos de Dipirona, com 500 mg cada. Fabricante: Prati-Donaduzzi. Medicamento genérico. Este medicamento é indicado como analgésico - medicamento para dor - e antitérmico - medicamento para febre. Uso adulto. FARMÁCIA PAGUE BAIXO.",
     },
     {
-      nome: "Resfedryl",
+      nome: "Dipirona xarope 50 mg/ml Medley",
       preco: 21.83,
-      imagem: "../img/resfedryl.webp",
+      imagem: "../img/dipirona2.PNG",
       descricao:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos eum eaque repudiandae fugit quo maxime sequi distinctio, quisquam accusantium possimus, culpa eligendi architecto libero, necessitatibus sint. Commodi laudantium cupiditate a aliquam totam corporis, delectus dolorum atque sunt culpa ab! Assumenda facere dolore illo itaque, nisi vel ipsam culpa voluptatem tenetur.",
+        "Xarope de uso infantil na concentração de 50 mg/ml. Fabricante: Medley. Medicamento genérico. Indicado para uso em crianças e adolescentes, para tratamento de dores diversas e febre. Evite o uso prolongado. FARMÁCIA SAÚDE MAIS FARMA.",
     },
     {
-      nome: "Resfedryl",
+      nome: "Dipirona 1 g - 1000 mg - Neo-Química",
       preco: 20.83,
-      imagem: "../img/resfedryl.webp",
+      imagem: "../img/dipirona3.PNG",
       descricao:
-        "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quos eum eaque repudiandae fugit quo maxime sequi distinctio, quisquam accusantium possimus, culpa eligendi architecto libero, necessitatibus sint. Commodi laudantium cupiditate a aliquam totam corporis, delectus dolorum atque sunt culpa ab! Assumenda facere dolore illo itaque, nisi vel ipsam culpa voluptatem tenetur.",
+        "Caixa com 10 comprimidos de Dipirona, com 1000 mg cada. Fabricante: Neo-Química. Medicamento genérico. Medicamento indicado para uso adulto, para tratamento e alívio de dores fortes ou febre alta. FARMÁCIA PAGUE BAIXO.",
     },
     {
       nome: "Loratadina",
