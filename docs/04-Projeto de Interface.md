@@ -12,32 +12,28 @@ De acordo com as histórias de usurários relatadas, sabe-se que o principal usu
 
 **Figura 2** - Fluxo dos usuários na forma de wireframes.
 
-![UserFlow](img/UserFlowComparaFarma.png)
+![UserFlow](img/user-flow.png)
 
 ## Wireframes
 
-Conforme o fluxo estabelecido nas figuras 3 e 4, a equipe elaborou cada uma das telas que podem ser acessadas pelos usuários da aplicação, conforme apresentado nas figuras que se seguem. Sequencialmente, são apresentadas: tela inicial ou homepage, tela de cadastro de medicamentos, tela de login, tela de cadastro de usuários, tela de resultado da pesquisa e tela de favoritos.
+Conforme o fluxo estabelecido nas figuras 3 e 4, a equipe elaborou cada uma das telas que podem ser acessadas pelos usuários da aplicação, conforme apresentado nas figuras que se seguem. Sequencialmente, são apresentadas: tela inicial ou homepage, tela de cadastro de medicamentos, tela de login, tela de resultado da pesquisa e tela de favoritos.
 
 **Figura 5** - Homepage da aplicação. Tela visualizada ao acessar a aplicação.
 
-![Home](img/Home.png)
+![Home](img/home.png)
 
 **Figura 6** - Tela de cadastro de medicamentos, procedimento que deve ser feito pelo dono da farmácia.
 
-![CadastroDeMedicamentos](img/CadastroDeMedicamentos.png)
+![CadastroDeMedicamentos](img/tela-de-cadastro-de-medicamentos.png)
 
 **Figura 7** - Tela de login, sendo uma tela que serve tanto para o dono da farmácia, quanto para o cliente que fará a busca.
 
-![Login](img/Login.png)
+![Login](img/login.png)
 
-**Figura 8** - Tela de cadastro de usuários, sendo uma tela que serve tanto para o dono da farmácia, quanto para o cliente que fará a busca.
+**Figura 8** - Tela de resultado da pesquisa, onde serão apresentados os preços comparativos conforme pesquisa feita pelo cliente.
 
-![CadastroDeUsuario](img/CadastroDeUsuario.png)
+![Pesquisa](img/resultado-de-pesquisa.png)
 
-**Figura 9** - Tela de resultado da pesquisa, onde serão apresentados os preços comparativos conforme pesquisa feita pelo cliente.
+**Figura 9** - Tela de favoritos, onde serão apresentados os produtos que o cliente favoritou para facilitar comparações de preços futuras.
 
-![Pesquisa](img/ResultadoDePesquisa.png)
-
-**Figura 10** - Tela de favoritos, onde serão apresentados os produtos que o cliente favoritou para facilitar comparações de preços futuras.
-
-![Favoritos](img/TelaDeFavoritos.png)
+![Favoritos](img/tela-favoritos.png)
