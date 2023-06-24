@@ -50,7 +50,7 @@ Metodologia</a> </li>
 
 # Hospedagem
 
-- Insira o endereço eletrônico público de acesso ao conteúdo publicado.
+- https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t9-time2-comparafarma/src/pages/home.html
 
 # Armazenamento do Código-Fonte
 

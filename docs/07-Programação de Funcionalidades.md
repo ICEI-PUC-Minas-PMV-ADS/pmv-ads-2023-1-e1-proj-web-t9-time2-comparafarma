@@ -42,7 +42,7 @@ para que o usuário possa efetuar uma pesquisa pelo nome do medicamento desejado
 
 **Instruções de acesso**
 
-1. Abra um navegador de Internet e informe a seguinte URL:
+1. Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t9-time2-comparafarma/src/pages/home.html
 2. A homepage é a primeira funcionalidade exibida pelo sistema.
 
 ## Pesquisa de medicamentos (RF-02)
@@ -126,7 +126,7 @@ function visuallyHidden(elem, mod) {
 
 **Instruções de acesso**
 
-1. Abra um navegador de Internet e informe a seguinte URL:
+1. Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t9-time2-comparafarma/src/pages/home.html
 2. Digite o nome do medicamento desejado no campo de pesquisa.
 3. Clique na lupa para exibir o resultado.
 
@@ -147,7 +147,7 @@ seus medicamentos de acordo com seu estoque disponível.
 
 **Instruções de acesso**
 
-1. Abra um navegador de Internet e informe a seguinte URL:
+1. Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t9-time2-comparafarma/src/pages/home.html
 2. Clique no link "Cadastro de medicamentos" disponível no cabeçalho da página.
 3. Preencher os campos do formulário com os dados do medicamento.
 4. Clique no botão cadastrar.
@@ -188,7 +188,7 @@ e favoritar medicamentos.
 
 **Instruções de acesso**
 
-1. Abra um navegador de Internet e informe a seguinte URL:
+1. Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t9-time2-comparafarma/src/pages/home.html
 2. Clique no link "Login" disponível no cabeçalho da página.
 3. Preencha os campos do fomulário de login.
 4. Clique no botão de login.
@@ -220,5 +220,5 @@ medicamento desajado de sua lista.
 
 **Instruções de acesso**
 
-1. Abra um navegador de Internet e informe a seguinte URL:
+1. Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2023-1-e1-proj-web-t9-time2-comparafarma/src/pages/home.html
 2. Clique no link "Favoritos" disponível no cabeçalho da página.
